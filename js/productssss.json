@@ -1,0 +1,745 @@
+[
+	
+	{
+		"id": 0,
+		"title": "Watermelon",
+		"itemsInBox": 68,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-watermelon-1500-600x600.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )\n вкус:Арбуз  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 1,
+		"title": "Blue Razz Lemonade",
+		"itemsInBox": 113,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "photo_2021-06-04_12-33-31.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )\n вкус: лимонад голубая малина  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 2,
+		"title": "Coconut Melon",
+		"itemsInBox": 91,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-1500-disposable-odnorazovye-12-1200x1200-400x400.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 3,
+		"title": "Cherry Lemon Peach",
+		"itemsInBox": 69,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-1500-disposable-odnorazovaya-34-1200x1200-1000x1000.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 4,
+		"title": "Розовый лимонад",
+		"itemsInBox": 87,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "odnorazovye-podelf-bar-1500-pink-lemonade-81061751468247.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 5,
+		"title": "Strawberry Banana",
+		"itemsInBox": 69,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-1500-disposable-odnorazovye-13-1200x1200-400x400.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 6,
+		"title": "Яблоко персик",
+		"itemsInBox": 57,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf_bar_1500_apple_peach2.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 7,
+		"title": "Strawberry Ice Cream",
+		"itemsInBox": 68,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-1500-disposable-odnorazovye-11-1200x1200-400x400.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 8,
+		"title": "Strawberry Kiwi",
+		"itemsInBox": 75,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-1500-disposable-odnorazovaya-33-1200x1200-400x400.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 9,
+		"title": "Cola",
+		"itemsInBox": 75,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "Elf-Bar-1500-Cola.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 10,
+		"title": "Blueberry",
+		"itemsInBox": 83,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "Elf_Bar_1500_Blueberry2-700x700.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 11,
+		"title": "Banana Ice",
+		"itemsInBox": 94,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "Elf_Bar_1500_Banana_Ice2.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 12,
+		"title": " Неоновый дождь ",
+		"itemsInBox": 123,
+		"weight": 1500, 
+		"price": 270,
+		"imgSrc": "elf-bar-neon-rain-700x700.jpg",
+		"name": "Elf Bar", 
+		"descr": "Вместительным жижехранилищем:4.8 мл \n  затяжек:1500 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 13,
+		"title": " Watermelon Lemon ",
+		"itemsInBox": 1,
+		"weight": 2000, 
+		"price": 330,
+		"imgSrc": "elfbar-2000-watermelon-lemon-fruits-1000x1000.jpg",
+		"name": "Elf Bar20", 
+		"descr": "Вместительным жижехранилищем:6.5мл  \n  затяжек:2000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 14,
+		"title": " Sour apple ",
+		"itemsInBox": 2,
+		"weight": 2000, 
+		"price": 330,
+		"imgSrc": "3-600x600.jpg",
+		"name": "Elf Bar20", 
+		"descr": "Вместительным жижехранилищем:6.5мл \n  затяжек:2000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 15,
+		"title": " Juicy peach ",
+		"itemsInBox": 46,
+		"weight": 2000, 
+		"price": 330,
+		"imgSrc": "elektronnaia-sigareta-elf-bar-2000-sochnyi-persik.jpg",
+		"name": "Elf Bar20", 
+		"descr": "Вместительным жижехранилищем:6.5мл  \n  затяжек:2000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 16,
+		"title": " Grape energy  ",
+		"itemsInBox": 76,
+		"weight": 2000, 
+		"price": 330,
+		"imgSrc": "elektronnaia-sigareta-elf-bar-2000-sochnyi-persik.jpg",
+		"name": "Elf Bar20", 
+		"descr": "Вместительным жижехранилищем:6.5мл  \n  затяжек:2000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 17,
+		"title": " Grape energy  ",
+		"itemsInBox": 76,
+		"weight": 2000, 
+		"price": 330,
+		"imgSrc": "elektronnaia-sigareta-elf-bar-2000-sochnyi-persik.jpg",
+		"name": "Elf Bar20", 
+		"descr": "Вместительным жижехранилищем:6.5мл  \n  затяжек:2000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 18,
+		"title": " Berry Peach  ",
+		"itemsInBox": 76,
+		"weight": 3600, 
+		"price": 460,
+		"imgSrc": "Elf_Bar_3600_Berry_Peach.jpg",
+		"name": "Elf Bar36", 
+		"descr": "Вместительным жижехранилищем:10.6 мл \n  затяжек:3600 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 19,
+		"title": " Blue Razz Lemonade ",
+		"itemsInBox": 50,
+		"weight": 3600, 
+		"price": 460,
+		"imgSrc": "Elf_Bar_3600_Blue_Razz_Lemonade.jpg",
+		"name": "Elf Bar36", 
+		"descr": "Вместительным жижехранилищем:10.6 мл \n  затяжек:3600 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 20,
+		"title": " Blue Razz Lemonade ",
+		"itemsInBox": 86,
+		"weight": 3600, 
+		"price": 460,
+		"imgSrc": "Elf_Bar_3600_Blue_Razz_Lemonade.jpg",
+		"name": "Elf Bar36", 
+		"descr": "Вместительным жижехранилищем:10.6 мл \n  затяжек:3600 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 21,
+		"title": " Strawberry Kiwi ",
+		"itemsInBox": 86,
+		"weight": 3600, 
+		"price": 460,
+		"imgSrc": "Elf_Bar_3600_Strawberry_Kiwi.jpg",
+		"name": "Elf Bar36", 
+		"descr": "Вместительным жижехранилищем:10.6 мл \n  затяжек:3600 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 22,
+		"title": " Watermelon Lemon ",
+		"itemsInBox": 86,
+		"weight": 3600, 
+		"price": 460,
+		"imgSrc": "Elf_Bar_3600_Watermelon_Lemon.jpg",
+		"name": "Elf Bar36", 
+		"descr": "Вместительным жижехранилищем:10.6 мл \n  затяжек:3600 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 23,
+		"title": " Blue Cotton Candy  ",
+		"itemsInBox": 86,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elf-bar-bc-5000-ultra-blue-cotton-candy-1-499x499.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 24,
+		"title": " Dragon Fruit Banana Berr ",
+		"itemsInBox": 86,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elfbar-bc5000ultra-dragon-fruit-banana-berry-1000x1000.800x600w.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 25,
+		"title": " Dragon Fruit Banana Berr ",
+		"itemsInBox": 77,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elfbar-bc5000ultra-dragon-fruit-banana-berry-1000x1000.800x600w.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 26,
+		"title": " Grape Honeydew ",
+		"itemsInBox": 77,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elf-bar-bc-5000-ultra-blue-cotton-candy-1-499x499.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 27,
+		"title": "  Kiwi Dragon Fruit Berry  ",
+		"itemsInBox": 75,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elf-bar-bc-5000-ultra-kiwi-dragon-fruit-berry-1-499x499.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 28,
+		"title": "  Kiwi Dragon Fruit Berry  ",
+		"itemsInBox": 59,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elf-bar-bc-5000-ultra-kiwi-dragon-fruit-berry-1-499x499.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 29,
+		"title": "  Orange Soda  ",
+		"itemsInBox": 68,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "index.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 30,
+		"title": " Raspberry Watermelon ",
+		"itemsInBox": 59,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "3212987560.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 31,
+		"title": " Strawberry Mango ",
+		"itemsInBox": 89,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elf-bar-bc5000-ultra-perezaryazhaemaya-11-1000x1000.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 32,
+		"title": " Strawberry Watermelon Bubble Gum ",
+		"itemsInBox": 49,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "inde676767676x.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 33,
+		"title": " Strawberry Watermelon Peach ",
+		"itemsInBox": 49,
+		"weight": 5000, 
+		"price": 610,
+		"imgSrc": "elfbar-bc5000ultra-strawberry-watermelon-peach-1000x1000.800x600w.jpg",
+		"name": "Elf Bar Ultra", 
+		"descr": "Вместительным жижехранилищем:13 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 34,
+		"title": " Cotton candy ",
+		"itemsInBox": 34,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-cotton-candy-50-mg-650-mach-kopya-500x5000-wm.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar)  ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 35,
+		"title": " Strawberry ice cream ",
+		"itemsInBox": 34,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "bm-strawberry-ice-cream.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar)  ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 36,
+		"title": " Cherry peach lemonade  ",
+		"itemsInBox": 32,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-cherry-peach-lemonade-300x300.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 37,
+		"title": " Lush ice ",
+		"itemsInBox": 32,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-lush-ice.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 38,
+		"title": " Red apple ice ",
+		"itemsInBox": 49,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-red-apple-ice-1-1000x1000-1.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 39,
+		"title": " Strawberry blueberry cherry ",
+		"itemsInBox": 42,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-strawberry-blueberry-cherry.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 40,
+		"title": " Blueberry raspberry cherry ",
+		"itemsInBox": 22,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-blueberry-raspberry-cherry-1-1000x1000-1.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 41,
+		"title": " Pineaple coconut ice ",
+		"itemsInBox": 29,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "bm-coconut-pineapple.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 42,
+		"title": " Mango passion fruit ",
+		"itemsInBox": 31,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-mango-passion-fruit.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 43,
+		"title": " Energy ",
+		"itemsInBox": 38,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "lost-mary-bm5000-energy.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 44,
+		"title": " Cranberry Soda ",
+		"itemsInBox": 38,
+		"weight": 5000, 
+		"price": 570,
+		"imgSrc": "vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa-vova-molodec-pa-pa-pa-pa.jpg",
+		"name": " Lost Mary  (Бренд Elf Bar) ", 
+		"descr": "Вместительным жижехранилищем:14 мл \n  затяжек:5000 (точное число зависит от стиля вейпинга )  ",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 45,
+		"title": " Blackcurrant mentol ",
+		"itemsInBox": 122,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "blackcurant-menthol.600x800.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 46,
+		"title": " Ice mango  ",
+		"itemsInBox": 98,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "ice-mango_30ml_50mg-scaled.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 47,
+		"title": " Blackberry grape ",
+		"itemsInBox": 88,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "inde56565x.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 48,
+		"title": " Watermelon mango  ",
+		"itemsInBox": 101,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "ind00000ex.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 49,
+		"title": " Mango kiwi  ",
+		"itemsInBox": 96,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "i11112ndex.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 50,
+		"title": " Double apple  ",
+		"itemsInBox": 94,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "Strawberry kiwi .jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 51,
+		"title": " Grapefruit melon ",
+		"itemsInBox": 54,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "grc-1-scal54444444444ed.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 52,
+		"title": " Strawberry mint  ",
+		"itemsInBox": 92,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "liquids-3ger-15ml-strawberry-mint.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 53,
+		"title": " Ice mint  ",
+		"itemsInBox": 78,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "liquids-3ger-15ml-ice-mint.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 54,
+		"title": " Blue cola  ",
+		"itemsInBox": 94,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "3ger-salt-blue-cola-500x5400-wm.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 55,
+		"title": " Caramel candy ",
+		"itemsInBox": 91,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "caramel candy-650x650.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 56,
+		"title": " Guava mandarin ",
+		"itemsInBox": 84,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "inde88888888888x.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 57,
+		"title": " Pineaple energy ",
+		"itemsInBox": 82,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "in555555555555555555555555555555555555dex.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 58,
+		"title": "Apple caramel",
+		"itemsInBox": 75,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "3ger-salt-apple-caramel-15-ml-500x400.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 59,
+		"title": "Blackcurrant candy",
+		"itemsInBox": 49,
+		"weight": "50mg", 
+		"price": 170,
+		"imgSrc": "blackcurrant-candy_50mg_White_65x41-mm-scaled.jpg",
+		"name": " 3GER ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 60,
+		"title": "Mint  ",
+		"itemsInBox": 42,
+		"weight":  "59мг/10мл", 
+		"price": 170,
+		"imgSrc": "IMG_1765.jpg",
+		"name": " MyPods ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 61,
+		"title": "Apple  ",
+		"itemsInBox": 33,
+		"weight":  "59мг/10мл", 
+		"price": 170,
+		"imgSrc": "IMGff_1764.jpg",
+		"name": " MyPods ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 62,
+		"title": "Currant",
+		"itemsInBox": 63,
+		"weight":  "59мг/10мл", 
+		"price": 170,
+		"imgSrc": "in555544444444444488888888888889999999938ex.jpg",
+		"name": " MyPods ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 63,
+		"title": "Currant",
+		"itemsInBox": 67,
+		"weight":  "59мг/10мл", 
+		"price": 170,
+		"imgSrc": "hype-salt-currant-10-ml-30-mg-500x500-wm.800x600w.jpg",
+		"name": " MyPods ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	},
+{
+		"id": 63,
+		"title": "Pear",
+		"itemsInBox": 47,
+		"weight":  "59мг/10мл", 
+		"price": 170,
+		"imgSrc": "jidkost-Hype-MyPods-lumon-10ml1.jpg",
+		"name": " MyPods ", 
+		"descr": "Объем:50 мг \n VG/PG:50/50 \n Страна производителя:США \n Вид никотина:Солевой",
+		"postavshik": "POD_UA"
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

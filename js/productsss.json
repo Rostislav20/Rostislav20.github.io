@@ -1,0 +1,223 @@
+[
+{
+    "id": 0,
+    "title": "LED подсветка для кальяна AMY Deluxe",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 755,
+    "imgSrc": "11572984.jpg",
+    "name": "LED AMY Deluxe", 
+    "descr": "Высота:2.5 см \n Материал:Пластик ",
+    "postavshik":"excel"
+  },
+{
+    "id": 1,
+    "title": "Алюминиевая фольга для кальяна",
+    "itemsInBox": 10,
+    "weight": "50 ЛИСТОВ", 
+    "price": 45,
+    "imgSrc": "ima65654565ges.jpg",
+    "name": "Фольга", 
+    "descr": "количуство:50 ЛИСТОВ \n Материал:Фольга ",
+    "postavshik":"excel"
+  },
+{
+    "id": 2,
+    "title": "Алюминиевая Фольга для кальяна Al Fakher",
+    "itemsInBox": 10,
+    "weight": "50 ЛИСТОВ", 
+    "price": 55,
+    "imgSrc": "83287363.jpg",
+    "name": "Фольга", 
+    "descr": "количуство:50 ЛИСТОВ \n Материал:Фольга ",
+    "postavshik":"excel"
+  },
+{
+    "id": 3,
+    "title": "Алюминиевый мундштук K10 ",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 155,
+    "imgSrc": "K10_red-500x500.jpg",
+    "name": "Алюминиевый мундштук", 
+    "descr": " Материал:Алюминий \n Длина:36 см \n цвет:красный ",
+    "postavshik":"excel"
+  },
+{
+    "id": 4,
+    "title": "Алюминиевый мундштук K10 ",
+    "itemsInBox": 8,
+    "weight": 1, 
+    "price": 155,
+    "imgSrc": "K10_black-500x500.jpg",
+    "name": "Алюминиевый мундштук", 
+    "descr": " Материал:Алюминий \n Длина:36 см \n цвет:черный ",
+    "postavshik":"excel"
+  },
+{
+    "id": 5,
+    "title": "Алюминиевый мундштук K10 ",
+    "itemsInBox": 9,
+    "weight": 1, 
+    "price": 155,
+    "imgSrc": "18337720.jpg",
+    "name": "Алюминиевый мундштук", 
+    "descr": " Материал:Алюминий \n Длина:36 см \n цвет:серебристый ",
+    "postavshik":"excel"
+  },
+{
+    "id": 6,
+    "title": "Алюминиевый мундштук K4 ",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 210,
+    "imgSrc": "k4-500x500.jpg",
+    "name": "Алюминиевый мундштук", 
+    "descr": " Материал:Алюминий \n Длина:36 см \n цвет:серебристый ",
+    "postavshik":"excel"
+  },
+{
+    "id": 7,
+    "title": "Держатель для мундштука AMY Deluxe ",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 280,
+    "imgSrc": "23456765432345676.jpg",
+    "name": "Держатель", 
+    "descr": " Материал:пластик \n цвет:Красный ",
+    "postavshik":"excel"
+  },
+{
+    "id": 8,
+    "title": "Держатель для мундштука AMY Deluxe ",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 280,
+    "imgSrc": "derzhatel-dlya-shlanga-hose-002-amy-shishastore-auto_width_1000.jpg",
+    "name": "Держатель", 
+    "descr": "Материал:пластик \n цвет:синий ",
+    "postavshik":"excel"
+  },
+{
+    "id": 9,
+    "title": "Держатель для мундштука AMY Deluxe ",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 280,
+    "imgSrc": "251519892.jpg",
+    "name": "Держатель", 
+    "descr": "Материал:пластик \n цвет:чорный ",
+    "postavshik":"excel"
+  },
+{
+    "id": 10,
+    "title": "AMY Deluxe AM-09 ",
+    "itemsInBox": 20,
+    "weight": 1, 
+    "price": 1650,
+    "imgSrc": "21554829.jpg",
+    "name": "Калауд", 
+    "descr": "Чаша:\nВисота - 10.\nГлибина - 2.\nДіаметр - 7,5.\nКалауд:\nВисота - 4,5.\nГлибина - 4. ",
+    "postavshik":"excel"
+  },
+{
+    "id": 11,
+    "title": "AMY Deluxe Hot Cut Z217 ",
+    "itemsInBox": 19,
+    "weight": 1, 
+    "price": 1085,
+    "imgSrc": "159998044.jpg",
+    "name": "Калауд", 
+    "descr": "Высота:9 см\nМатериал:Силикон\nКомплектация:Клауд\nРазмеры:Высота - 4.5 см \n Диаметр - 7.5 см ",
+    "postavshik":"excel"
+  },
+{
+    "id": 12,
+    "title": "AMY Deluxe Hot Cut Z217 ",
+    "itemsInBox": 20,
+    "weight": 1, 
+    "price": 1570,
+    "imgSrc": "56868963.jpg",
+    "name": "Калауд", 
+    "descr": "Высота: 9 см  \n Комплектация:Клауд ",
+    "postavshik":"excel"
+  },
+{
+    "id": 13,
+    "title": "AMY Deluxe Kaloud Smoke Box ",
+    "itemsInBox": 20,
+    "weight": 1, 
+    "price": 765,
+    "imgSrc": "56868464.jpg",
+    "name": "Калауд", 
+    "descr": "Высота: 4 см \n  Материал:Алюминий \n Комплектация:Клауд \n Размеры:Диаметр - 7.5 см",
+    "postavshik":"excel"
+  },
+{
+    "id": 14,
+    "title": "Kaloud Lotus Form v.2 ",
+    "itemsInBox": 53,
+    "weight": 1, 
+    "price": 110,
+    "imgSrc": "inde45545455x.jpg",
+    "name": "Калауд", 
+    "descr": "Цвет:Серебристый \n  Материал:Хромированная сталь ",
+    "postavshik":"excel"
+  },
+{
+    "id": 15,
+    "title": "Kaloud Lotus черный",
+    "itemsInBox": 2,
+    "weight": 1, 
+    "price": 185,
+    "imgSrc": "in455555555555444444ex.jpg",
+    "name": "Калауд", 
+    "descr": "Цвет:чорий \n  Материал:Хромированная сталь ",
+    "postavshik":"excel"
+  },
+{
+    "id": 16,
+    "title": "Серебро большая",
+    "itemsInBox": 15,
+    "weight": 1, 
+    "price": 275,
+    "imgSrc": "14643884.jpg",
+    "name": "Корзина для углей", 
+    "descr": "Цвет:Серебристый \n  Материал:сталь ",
+    "postavshik":"excel"
+  },
+{
+    "id": 17,
+    "title": "Серебро малая",
+    "itemsInBox": 15,
+    "weight": 1, 
+    "price": 165,
+    "imgSrc": "14643884.jpg",
+    "name": "Корзина для углей", 
+    "descr": "Цвет:Серебристый \n  Материал: сталь ",
+    "postavshik":"excel"
+  },
+{
+    "id": 18,
+    "title": "AMY Deluxe AM-BS001",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 500,
+    "imgSrc": "8310656565651606.jpg",
+    "name": "Корзина для углей", 
+    "descr": "Цвет:Серебристый \n  Материал: сталь ",
+    "postavshik":"excel"
+  }
+  ,
+{
+    "id": 19,
+    "title": "AMY Deluxe AM-BS001",
+    "itemsInBox": 10,
+    "weight": 1, 
+    "price": 500,
+    "imgSrc": "ff.jpg",
+    "name": "chaski", 
+    "descr": "Цвет:Серебристый \n  Материал: сталь ",
+    "postavshik":"excel"
+  }
+]

@@ -1,0 +1,200 @@
+[
+	{
+		"id": 0,
+		"title": "Уголь кокосовый Coco Django", 
+		"itemsInBox": 21,
+		"weight": 1, 
+		"price": 155 , 
+		"imgSrc": "photo_2022-09-12_15-22-21.jpg", 
+		"name": "Coco Django",  
+		"descr": "Страна-производитель:  Индонезия \n Количество в упаковке:  72шт \n Размер:  Размер угля – 25*25*25 ", 
+		"postavshik": "ismok"
+	},
+{
+		"id": 1,
+		"title": "Уголь Cocoloco", 
+		"itemsInBox": 19,
+		"weight": 1, 
+		"price": 215, 
+		"imgSrc": "photo_2022-09-12_15-26-04.jpg", 
+		"name": "Cocoloco",  
+		"descr": "производитеkm : Khmara \n количество : 72 шт \n кубики : 25х25х25 \n Время горения ~90 минут", 
+		"postavshik": "ismok"
+	},
+{
+		"id": 2,
+		"title": "Уголь кокосовый Monster Hookah", 
+		"itemsInBox": 14,
+		"weight": 0.5, 
+		"price": 105, 
+		"imgSrc": "251519890.jpg", 
+		"name": "Monster Hookah",  
+		"descr": "Тип : Кокосовый \n Высота : 25 мм \nШирина : 25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 3,
+		"title": "Уголь кокосовый TAJ", 
+		"itemsInBox": 9,
+		"weight": 0.5, 
+		"price": 60, 
+		"imgSrc": "231953440.jpg", 
+		"name": "TAJ",  
+		"descr": "Количество в упаковке : шт30\nСтрана регистрации бренда : Индонезия\nРазмеры : 26х26х26", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 4,
+		"title": "Уголь кокосовый TAJ", 
+		"itemsInBox": 12,
+		"weight": 1, 
+		"price": 150, 
+		"imgSrc": "21989754.jpg", 
+		"name": "TAJ",  
+		"descr": "Количество в упаковке, шт:64\nТип:Кокосовый\nВысота:26 мм\nШирина:26 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 5,
+		"title": "Уголь кокосовый TAJ", 
+		"itemsInBox": 11,
+		"weight": 1, 
+		"price": 120, 
+		"imgSrc": "21989644.jpg", 
+		"name": "TAJ",  
+		"descr": "Количество в упаковке, шт:64\nТип:Кокосовый\nВысота:26 мм\nШирина:26 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 6,
+		"title": "Уголь кокосовый TAJ под калауд", 
+		"itemsInBox": 9,
+		"weight": 1, 
+		"price": 120, 
+		"imgSrc": "21989716.jpg", 
+		"name": "TAJ",  
+		"descr": "Количество в упаковке, шт:72\nТип:Кокосовый\nВысота:26 мм\nШирина:26 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 7,
+		"title": "Уголь кокосовый True Passion", 
+		"itemsInBox": 9,
+		"weight": 1, 
+		"price": 165, 
+		"imgSrc": "ugol-dlia-kaliana-true-passion.jpg", 
+		"name": "True Passion",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм\nШирина:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 8,
+		"title": "Уголь кокосовый True Passion", 
+		"itemsInBox": 6,
+		"weight": 1, 
+		"price": 125, 
+		"imgSrc": "21989612.jpg", 
+		"name": "True Passion",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм\nШирина:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 9,
+		"title": "Уголь кокосовый Yahya Asseel в целофане", 
+		"itemsInBox": 6,
+		"weight": "0,5", 
+		"price": 65, 
+		"imgSrc": "33500979.jpg", 
+		"name": "Yahya Asseel",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм\nШирина:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 10,
+		"title": "Уголь кокосовый Yahya Asseel в целофане", 
+		"itemsInBox": 8,
+		"weight": 1, 
+		"price": 180, 
+		"imgSrc": "225025597.jpg", 
+		"name": "Yahya Asseel",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм\nШирина:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 11,
+		"title": "Уголь кокосовый Yahya Elegance под калауд", 
+		"itemsInBox": 1,
+		"weight": "0,5", 
+		"price": 145, 
+		"imgSrc": "256064225.jpg", 
+		"name": "Yahya Elegance",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 12,
+		"title": "Уголь кокосовый Yahya Elegance ", 
+		"itemsInBox": 5,
+		"weight": 1, 
+		"price": 185, 
+		"imgSrc": "coalE.jpeg", 
+		"name": "Yahya Elegance",  
+		"descr": "Тип:Кокосовый\nВысота:25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 12,
+		"title": "Уголь кокосовый Yahya Elegance под калауд", 
+		"itemsInBox": 1,
+		"weight": 1, 
+		"price": 140, 
+		"imgSrc": "102787536.jpg", 
+		"name": "Yahya Elegance",  
+		"descr": "Тип:Кокосовый", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 13,
+		"title": "Уголь кокосовый Khmara Cocoloco ", 
+		"itemsInBox": 6,
+		"weight": 1, 
+		"price": 225, 
+		"imgSrc": "272220786.jpg", 
+		"name": "Khmara",  
+		"descr": "Тип:Кокосовый \n Страна-производитель товара Украина \nРазмеры 25х25х25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 14,
+		"title": "Уголь  ореховый Hookah ", 
+		"itemsInBox": 14,
+		"weight": 1, 
+		"price": 170, 
+		"imgSrc": "256065514.jpg", 
+		"name": "Hookah",  
+		"descr": "Тип:Ореховый\nРазмеры 25х25х25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 15,
+		"title": "Уголь  кокосовый Mr. Coco  ", 
+		"itemsInBox": 10,
+		"weight": 1, 
+		"price": 220, 
+		"imgSrc": "mr.coco.450x620.jpg", 
+		"name": "Mr. Coco",  
+		"descr": "Тип:Кокосовый\nРазмеры 25х25х25 мм", 
+		"postavshik": "Excel"
+	},
+{
+		"id": 16,
+		"title": "Уголь  кокосовый Panda XL ", 
+		"itemsInBox": 13,
+		"weight": 1, 
+		"price": 155, 
+		"imgSrc": "22769682.jpg", 
+		"name": "Panda",  
+		"descr": "Тип:Кокосовый\nРазмеры 25х25х25 мм", 
+		"postavshik": "Excel"
+	}
+]
